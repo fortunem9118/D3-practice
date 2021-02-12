@@ -1,159 +1,159 @@
-SPRINT NAME,ISSUE ID,NAME,REVIEW TYPE,CONTENT TYPE,REVIEWER,CREATOR,OBJECTIVE SCORE,SUBJECTIVE SCORE,REVIEW SCORE,REVIEW OUTCOME,REVIEW WORK DAYS,CONTENT FAMILIARITY,REVIEW created,REVIEW initiated,ASSIGNEE-temp,ASSIGNEE,REPORTING-temp,REPORTING,Select your name,Select the name of the individual whose work you are reviewing
-SPRINT 07,,Visualisation 4 DS- Load Data into Power BI,Self Review,Slide deck,Geraldene,Geraldene,100.00,68.57,78.00,,0.00,,10/21/2020 21:35:26,10/21/2020 21:35:26,Geraldene,Geraldene,,,Geraldene,
-SPRINT 07,,Python 4 DS - Build you own Python Package,Self Review,Notebook,Laura,Laura,100.00,80.00,86.00,,0.00,,10/22/2020 9:39:27,10/22/2020 9:39:27,Laura,Laura,,,Laura,
-SPRINT 07,,Python for Data Science - Introduction to Git & Github,Self Review,Slide deck,Geraldene,Geraldene,83.33,67.69,72.38,,0.00,,10/22/2020 16:31:24,10/22/2020 16:31:24,Geraldene,Geraldene,,,Geraldene,
-SPRINT 07,,Introduction to data visualisation - Visualisation for Data Science,Self Review,Notebook,Geraldene,Geraldene,88.24,70.91,76.11,,0.00,,10/26/2020 13:30:25,10/26/2020 13:30:25,Geraldene,Geraldene,,,Geraldene,
-SPRINT 07,,EXPLORE 101- Welcome,Self Review,Slide deck,Geraldene,Geraldene,70.00,77.14,75.00,,0.00,,10/27/2020 9:52:56,10/27/2020 9:52:56,Geraldene,Geraldene,,,Geraldene,
-SPRINT 07,,EXPLORE 101- Getting Set Up,Self Review,Slide deck,Geraldene,Geraldene,60.00,78.57,73.00,,0.00,,10/27/2020 13:37:54,10/27/2020 13:37:54,Geraldene,Geraldene,,,Geraldene,
-SPRINT 07,,Python 4 DS - Build a Python package,Tech Lead Review,Notebook,Jonathan,,100.00,68.89,78.22,,0.00,,10/28/2020 8:11:03,10/28/2020 8:11:03,Jonathan,Jonathan,,,Jonathan,
-SPRINT 07,,Python 4 Data Science - Git & GitHub,Tech Lead Review,Slide deck,Jonathan,,90.91,74.29,79.27,,0.00,,10/28/2020 12:29:24,10/28/2020 12:29:24,Jonathan,Jonathan,,,Jonathan,
-SPRINT 07,,Python for Data Science - Git shell and bash MCQ,Tech Lead Review,MCQ,Jonathan,,100.00,75.56,82.89,,0.00,,10/28/2020 14:21:04,10/28/2020 14:21:04,Jonathan,Jonathan,,,Jonathan,
-SPRINT 07,,Advanced Regression - Predict notebook model solution.,Tech Lead Review,Predict section,Jonathan,,75.00,70.00,71.50,,0.00,,10/28/2020 23:28:58,10/28/2020 23:28:58,Jonathan,Jonathan,,,Jonathan,
-SPRINT 07,,Advanced Regression - Predict Overview Slides,Tech Lead Review,Predict section,Jonathan,,100.00,80.00,86.00,,0.00,,10/29/2020 4:48:25,10/29/2020 4:48:25,Jonathan,Jonathan,,,Jonathan,
-SPRINT 07,,Advanced Regression - Predict API,Tech Lead Review,Predict section,Jonathan,,100.00,72.86,81.00,,0.00,,10/29/2020 15:16:46,10/29/2020 15:16:46,Jonathan,Jonathan,,,Jonathan,
-SPRINT 08,,Visualisation for Analysts - Predict Model Solution,Tech Lead Review,Predict section,Jonathan,,88.89,81.43,83.67,,0.00,,10/30/2020 8:06:20,10/30/2020 8:06:20,Jonathan,Jonathan,,,Jonathan,
-SPRINT 08,,Intro to Data Science - Course MCQs,Tech Lead Review,MCQ,Jonathan,,90.91,76.67,80.94,,0.00,,10/30/2020 8:10:38,10/30/2020 8:10:38,Jonathan,Jonathan,,,Jonathan,
-SPRINT 08,,Intro to DS - Worker Manual ,Tech Lead Review,Other,Jonathan,,100.00,100.00,100.00,,0.00,,11/3/2020 9:38:02,11/3/2020 9:38:02,Jonathan,Jonathan,,,Jonathan,
-SPRINT 08,,Introduction‌ ‌to‌ ‌Data‌ ‌Science‌ - Introduction‌ ‌to‌ ‌Data‌ ‌Science‌ ,Peer Review,Other,Fortune,,75.00,81.43,79.50,,0.00,,11/3/2020 13:50:58,11/3/2020 13:50:58,Fortune,Fortune,,,Fortune,
-SPRINT 08,,{Classification} - {Hackathon},Self Review,Predict section,Laura,Laura,63.64,78.57,74.09,,0.00,,11/3/2020 14:57:39,11/3/2020 14:57:39,Laura,Laura,,,Laura,
-SPRINT 08,,Introduction to Data Science - Candidate Guide (114050),Peer Review,Other,Fortune,,62.50,75.71,71.75,,0.00,,11/3/2020 16:39:08,11/3/2020 16:39:08,Fortune,Fortune,,,Fortune,
-SPRINT 08,,{EXPLORE 101} - Analyse skills test,Self Review,MCQ,Laura,Laura,44.44,76.67,67.00,,0.00,,11/4/2020 15:01:20,11/4/2020 15:01:20,Laura,Laura,,,Laura,
-SPRINT 08,,EXPLORE 101 - Introduction to Cloud Computing,Self Review,Slide deck,Geraldene,Geraldene,81.82,85.71,84.55,,0.00,,11/4/2020 21:14:06,11/4/2020 21:14:06,Geraldene,Geraldene,,,Geraldene,
-SPRINT 08,,DS101 - Introduction to cloud computing ,Peer Review,Slide deck,Vincent,,81.82,78.57,79.55,,0.00,,11/5/2020 10:25:08,11/5/2020 10:25:08,Vincent,Vincent,,,Vincent,
-SPRINT 08,,{EXPLORE 101} - Intro to Colab,Self Review,Slide deck,Laura,Laura,90.91,90.00,90.27,,0.00,,11/5/2020 10:44:50,11/5/2020 10:44:50,Laura,Laura,,,Laura,
-SPRINT 08,,EXPLORE 101 - Analysis skills MCQ test ,Peer Review,MCQ,Geraldene,,25.00,63.08,51.65,,0.00,,11/5/2020 11:57:42,11/5/2020 11:57:42,Geraldene,Geraldene,,,Geraldene,
-SPRINT 08,,EXPLORE 101- Troubleshooting at EDSA,Self Review,Slide deck,Geraldene,Geraldene,90.00,81.43,84.00,,0.00,,11/5/2020 12:13:12,11/5/2020 12:13:12,Geraldene,Geraldene,,,Geraldene,
-SPRINT 08,,EXPLORE 101 - Introduction to Google colab,Peer Review,Slide deck,Geraldene,,63.64,87.14,80.09,,0.00,,11/5/2020 13:05:56,11/5/2020 13:05:56,Geraldene,Geraldene,,,Geraldene,
-SPRINT 08,,{EXPLORE 101} - Intro to Explain,Self Review,Slide deck,Laura,Laura,81.82,84.29,83.55,,0.00,,11/5/2020 13:52:12,11/5/2020 13:52:12,Laura,Laura,,,Laura,
-SPRINT 08,,{EXPLORE 101} - {Troubleshooting at EDSA},Peer Review,Slide deck,Laura,,81.82,90.00,87.55,,0.00,,11/5/2020 16:11:54,11/5/2020 16:11:54,Laura,Laura,,,Laura,
-SPRINT 08,,DS101 - Introduction to cloud computing ,Peer Review,Slide deck,Vincent,,100.00,90.00,93.00,,0.00,,11/5/2020 18:51:01,11/5/2020 18:51:01,Vincent,Vincent,,,Vincent,
-SPRINT 08,,{EXPLORE 101} - {Intro to deploy},Self Review,Slide deck,Laura,Laura,81.82,84.29,83.55,,0.00,,11/6/2020 11:12:13,11/6/2020 11:12:13,Laura,Laura,,,Laura,
-SPRINT 08,,Introduction to Data Science - Candidate Guide (114050),Peer Review,Other,Fortune,,75.00,85.71,82.50,,0.00,,11/6/2020 12:02:12,11/6/2020 12:02:12,Fortune,Fortune,,,Fortune,
-SPRINT 08,,Visualisation for Data Science - Introduction to Visualisation,Tech Lead Review,Notebook,Jonathan,,93.33,58.89,69.22,,0.00,,11/9/2020 7:03:01,11/9/2020 7:03:01,Jonathan,Jonathan,,,Jonathan,
-SPRINT 08,,EXPLORE 101 - Introduction to Deploy,Peer Review,Slide deck,Geraldene,,50.00,90.00,78.00,,0.00,,11/9/2020 7:25:34,11/9/2020 7:25:34,Geraldene,Geraldene,,,Geraldene,
-SPRINT 08,,Advanced Regression - Predict Notebook Solution,Tech Lead Review,Predict section,Jonathan,,92.31,75.56,80.58,,0.00,,11/9/2020 7:42:40,11/9/2020 7:42:40,Jonathan,Jonathan,,,Jonathan,
-SPRINT 08,,Advanced Classification - Classification Hackathon,Tech Lead Review,Other,Jonathan,,100.00,88.57,92.00,,0.00,,11/9/2020 9:56:23,11/9/2020 9:56:23,Jonathan,Jonathan,,,Jonathan,
-SPRINT 08,,BI for Analysts - SARIMA Train,Self Review,Notebook,Vincent,Vincent,92.86,75.56,80.75,,0.00,,11/9/2020 12:27:32,11/9/2020 12:27:32,Vincent,Vincent,,,Vincent,
-SPRINT 08,,Visualisation for DS - Formatting Visuals in Power BI,Self Review,Slide deck,Ridha,Ridha,100.00,98.57,99.00,,0.00,,11/9/2020 14:39:41,11/9/2020 14:39:41,Ridha,Ridha,,,Ridha,
-SPRINT 08,,BI Analytics - Predict Model Solution Notebook,Tech Lead Review,Predict section,Jonathan,,92.31,80.00,83.69,,0.00,,11/9/2020 14:56:31,11/9/2020 14:56:31,Jonathan,Jonathan,,,Jonathan,
-SPRINT 08,,BI Analytics - Predict MCQs,Tech Lead Review,MCQ,Jonathan,,100.00,82.22,87.56,,0.00,,11/9/2020 15:00:08,11/9/2020 15:00:08,Jonathan,Jonathan,,,Jonathan,
-SPRINT 08,,{EXPLORE 101} - EGAD Equation of Value,Self Review,Slide deck,Laura,Laura,90.91,81.43,84.27,,0.00,,11/10/2020 11:00:02,11/10/2020 11:00:02,Laura,Laura,,,Laura,
-SPRINT 08,,Visualisation for Data science - Formatting Visuals in Power BI,Peer Review,Slide deck,Vincent,,90.91,90.00,90.27,,0.00,,11/10/2020 14:26:56,11/10/2020 14:26:56,Vincent,Vincent,,,Vincent,
-SPRINT 08,,EXPLORE 101 - Equation of value ,Peer Review,Slide deck,Geraldene,,50.00,90.00,78.00,,0.00,,11/10/2020 14:53:42,11/10/2020 14:53:42,Geraldene,Geraldene,,,Geraldene,
-SPRINT 08,,DS 101 - Data Science and IT in a business setting,Peer Review,Slide deck,Vincent,,90.91,64.29,72.27,,0.00,,11/10/2020 15:47:08,11/10/2020 15:47:08,Vincent,Vincent,,,Vincent,
-SPRINT 08,,Digital Skill: Introduction to Data Science - Manual,Peer Review,Other,Fortune,,87.50,87.14,87.25,,0.00,,11/11/2020 10:22:27,11/11/2020 10:22:27,Fortune,Fortune,,,Fortune,
-SPRINT 08,,{EXPLORE 101} - {Software testing},Peer Review,Notebook,Laura,,100.00,92.22,94.56,,0.00,,11/11/2020 10:22:43,11/11/2020 10:22:43,Laura,Laura,,,Laura,
-SPRINT 08,,Visualisation for Data Science - Data Science and IT in a Business Setting,Peer Review,Slide deck,Vincent,,100.00,90.00,93.00,,0.00,,11/11/2020 10:26:45,11/11/2020 10:26:45,Vincent,Vincent,,,Vincent,
-SPRINT 08,,BI for Analysts - XGBOOST Train,Self Review,Notebook,Vincent,Vincent,100.00,75.56,82.89,,0.00,,11/11/2020 13:51:38,11/11/2020 13:51:38,Vincent,Vincent,,,Vincent,
-SPRINT 08,,{EXPLORE 101} - Installing Anaconda,Self Review,Slide deck,Laura,Laura,100.00,88.57,92.00,,0.00,,11/11/2020 15:16:23,11/11/2020 15:16:23,Laura,Laura,,,Laura,
-SPRINT 08,,SQL for DS - SQL Queries using PyODBC,Peer Review,Notebook,Vincent,,92.31,94.44,93.80,,0.00,,11/11/2020 16:01:55,11/11/2020 16:01:55,Vincent,Vincent,,,Vincent,
-SPRINT 08,,DS 101 - SQL Queries using PyODBC,Peer Review,Notebook,Vincent,,100.00,94.44,96.11,,0.00,,11/12/2020 9:29:04,11/12/2020 9:29:04,Vincent,Vincent,,,Vincent,
-SPRINT 08,,SQL for DS - SETA Manual,Self Review,Other,Ridha,Ridha,62.50,87.14,79.75,,0.00,,11/12/2020 11:46:52,11/12/2020 11:46:52,Ridha,Ridha,,,Ridha,
-SPRINT 08,,EXPLORE 101 - Installing Anaconda,Tech Lead Review,Slide deck,Jonathan,,100.00,90.00,93.00,,0.00,,11/12/2020 15:42:34,11/12/2020 15:42:34,Jonathan,Jonathan,,,Jonathan,
-SPRINT 09,,BI for Analysts - Overview of Scenario Planning,Self Review,Slide deck,Vincent,Vincent,100.00,84.29,89.00,Accepted - No corrections required,0.00,,11/17/2020 10:15:59,11/17/2020 10:15:59,Vincent,Vincent,,,Vincent,
-SPRINT 09,,BI for Analysts - SARIMA Train,Tech Lead Review,Notebook,Jonathan,,100.00,83.33,88.33,Accepted - Minor corrections required,0.00,,11/17/2020 23:02:22,11/17/2020 23:02:22,Jonathan,Jonathan,,,Jonathan,
-SPRINT 09,,BI for Analysts - XGBOOST Pre-Processing ,Self Review,Notebook,Vincent,Vincent,100.00,81.11,86.78,Accepted - No corrections required,0.00,,11/18/2020 8:06:07,11/18/2020 8:06:07,Vincent,Vincent,,,Vincent,
-SPRINT 09,,BI for Analysts - XGBOOST TS Train,Self Review,Notebook,Vincent,Vincent,100.00,82.22,87.56,Accepted - No corrections required,0.00,,11/18/2020 8:07:46,11/18/2020 8:07:46,Vincent,Vincent,,,Vincent,
-SPRINT 09,,{EXPLORE 101} - {Testing you code Test},Self Review,Coding Challenge,Laura,Laura,86.67,86.67,86.67,Not applicable,0.00,,11/18/2020 11:44:44,11/18/2020 11:44:44,Laura,Laura,,,Laura,
-SPRINT 09,,EXPLORE101 - Test: testing your code,Tech Lead Review,Coding Challenge,Jonathan,,100.00,81.11,86.78,Accepted - No corrections required,0.00,,11/18/2020 13:44:32,11/18/2020 13:44:32,Jonathan,Jonathan,,,Jonathan,
-SPRINT 09,,EXPLORE 101 - EGAD - Problem Statement,Self Review,Slide deck,Ridha,Ridha,100.00,95.71,97.00,Not applicable,0.00,,11/18/2020 17:17:02,11/18/2020 17:17:02,Ridha,Ridha,,,Ridha,
-SPRINT 09,,Python for DS - SETA Manual,Peer Review,Other,Ridha,,100.00,97.14,98.00,Not applicable,0.00,,11/18/2020 17:22:50,11/18/2020 17:22:50,Ridha,Ridha,,,Ridha,
-SPRINT 09,,{BI Analyst} - {Overview of Scenario Planning},Peer Review,Slide deck,Laura,,90.91,80.00,83.27,Accepted - No corrections required,0.00,,11/19/2020 12:39:56,11/19/2020 12:39:56,Laura,Laura,,,Laura,
-SPRINT 09,,{EXPLORE 101} - {Problem Solving BootCamp},Self Review,Slide deck,Laura,Laura,81.82,100.00,94.55,Not applicable,0.00,,11/19/2020 13:18:40,11/19/2020 13:18:40,Laura,Laura,,,Laura,
-SPRINT 09,,BI for Analysts - Scenario Planning in Power BI,Self Review,Slide deck,Vincent,Vincent,100.00,81.43,87.00,Accepted - No corrections required,0.00,,11/19/2020 13:52:11,11/19/2020 13:52:11,Vincent,Vincent,,,Vincent,
-SPRINT 09,,{EXPLORE 101} - {Gather Skills Test},Self Review,MCQ,Laura,Laura,44.44,83.33,71.67,Not applicable,0.00,,11/19/2020 14:49:05,11/19/2020 14:49:05,Laura,Laura,,,Laura,
-SPRINT 09,,EXPLORE101 - Python print statements,Peer Review,Notebook,Ridha,,100.00,96.67,97.67,Accepted - Minor corrections required,0.00,,11/19/2020 15:26:25,11/19/2020 15:26:25,Ridha,Ridha,,,Ridha,
-SPRINT 09,,{BI Analyst} - {Scenario Planning in PBI},Peer Review,Slide deck,Laura,,90.91,82.86,85.27,Accepted - No corrections required,0.00,,11/20/2020 9:37:15,11/20/2020 9:37:15,Laura,Laura,,,Laura,
-SPRINT 09,,BI for Analysts - Utilising trained models,Self Review,Notebook,Vincent,Vincent,100.00,81.11,86.78,Accepted - No corrections required,0.00,,11/23/2020 10:36:36,11/23/2020 10:36:36,Vincent,Vincent,,,Vincent,
-SPRINT 09,,{EXPLORE 101} - Intro to Gather,Self Review,Slide deck,Laura,Laura,90.91,84.29,86.27,Not applicable,0.00,,11/23/2020 11:22:21,11/23/2020 11:22:21,Laura,Laura,,,Laura,
-SPRINT 09,,{EXPLORE 101} - Test Basic Python Functions,Self Review,Coding Challenge,Laura,Laura,85.71,81.11,82.49,Not applicable,0.00,,11/23/2020 11:24:13,11/23/2020 11:24:13,Laura,Laura,,,Laura,
-SPRINT 09,,SQL for DS - Manual,Peer Review,Other,Fortune,,100.00,90.00,93.00,Accepted - No corrections required,0.00,,11/23/2020 12:40:39,11/23/2020 12:40:39,Fortune,Fortune,,,Fortune,
-SPRINT 09,,EXPLORE101 - Introduction to Gather,Tech Lead Review,Slide deck,Jonathan,,90.91,84.29,86.27,Accepted - No corrections required,0.00,,11/23/2020 13:19:45,11/23/2020 13:19:45,Jonathan,Jonathan,,,Jonathan,
-SPRINT 09,,EXPLORE 101 - Create gather skills test,Peer Review,MCQ,Jonathan,,100.00,47.78,63.44,Rework required,0.00,,11/23/2020 14:16:07,11/23/2020 14:16:07,Jonathan,Jonathan,,,Jonathan,
-SPRINT 09,,SQL for DS - Candidate Guide (114048),Peer Review,Other,Fortune,,100.00,90.00,93.00,Accepted - No corrections required,0.00,,11/23/2020 15:36:28,11/23/2020 15:36:28,Fortune,Fortune,,,Fortune,
-SPRINT 09,,SQL for DS - Assessor and Facilitator Guide (114048),Peer Review,Other,Fortune,,75.00,80.00,78.50,Accepted - Minor corrections required,0.00,,11/24/2020 8:51:26,11/24/2020 8:51:26,Fortune,Fortune,,,Fortune,
-SPRINT 09,,BI for Analysts - Data imputation,Self Review,Notebook,Vincent,Vincent,100.00,81.11,86.78,Not applicable,0.00,,11/30/2020 9:49:16,11/30/2020 9:49:16,Vincent,Vincent,,,Vincent,
-SPRINT 09,,DS 101 - EGAD Framework: Project Management,Peer Review,Slide deck,Vincent,,81.82,81.43,81.55,Accepted - Minor corrections required,0.00,,11/30/2020 11:09:22,11/30/2020 11:09:22,Vincent,Vincent,,,Vincent,
-SPRINT 09,,EGAD - Project Management,Peer Review,Slide deck,Vincent,,90.91,77.14,81.27,Accepted - Minor corrections required,0.00,,11/30/2020 12:27:52,11/30/2020 12:27:52,Vincent,Vincent,,,Vincent,
-SPRINT 09,,EXPLORE 101 - Introduction to Gather,Tech Lead Review,Slide deck,Jonathan,,100.00,73.33,81.33,Accepted - Minor corrections required,0.00,,11/30/2020 17:37:36,11/30/2020 17:37:36,Jonathan,Jonathan,,,Jonathan,
-SPRINT 09,,{BI Analyst} - {Scenario Planning MCQ},Self Review,MCQ,Laura,Laura,37.50,86.67,71.92,Not applicable,0.00,,12/1/2020 7:50:47,12/1/2020 7:50:47,Laura,Laura,,,Laura,
-SPRINT 09,,"Visualisation for DS - DAX, columns and measures",Self Review,Slide deck,Ridha,Ridha,100.00,94.29,96.00,Not applicable,0.00,,12/1/2020 14:59:57,12/1/2020 14:59:57,Ridha,Ridha,,,Ridha,
-SPRINT 09,,"DAX Formulas, Columns and Measures",Peer Review,Slide deck,Vincent,,100.00,94.29,96.00,Accepted - No corrections required,0.00,,12/1/2020 15:46:16,12/1/2020 15:46:16,Vincent,Vincent,,,Vincent,
-SPRINT 09,,BI for Analysts - Python modelling in PBI,Tech Lead Review,Slide deck,Jonathan,,100.00,80.00,86.00,Accepted - Minor corrections required,0.00,,12/2/2020 9:46:06,12/2/2020 9:46:06,Jonathan,Jonathan,,,Jonathan,
-SPRINT 09,,Python for Data Science - Test: Basic Python Functions,Tech Lead Review,Coding Challenge,Jonathan,,100.00,80.00,86.00,Accepted - Minor corrections required,0.00,,12/2/2020 9:54:12,12/2/2020 9:54:12,Jonathan,Jonathan,,,Jonathan,
-SPRINT 09,,EXPLORE 101 - Introduction to Analyse,Tech Lead Review,Slide deck,Jonathan,,100.00,74.29,82.00,Accepted - Minor corrections required,0.00,,12/2/2020 10:06:35,12/2/2020 10:06:35,Jonathan,Jonathan,,,Jonathan,
-SPRINT 09,,Python4DS - Assessor and Facilitator Guide,Peer Review,Other,Ridha,,100.00,90.00,93.00,Accepted - Minor corrections required,0.00,,12/2/2020 16:54:23,12/2/2020 16:54:23,Ridha,Ridha,,,Ridha,
-SPRINT 09,,DS 101 - Introduction to Analyse,Self Review,Slide deck,Ridha,Ridha,100.00,98.57,99.00,Not applicable,0.00,,12/2/2020 16:57:03,12/2/2020 16:57:03,Ridha,Ridha,,,Ridha,
-SPRINT 09,,"Visualisation for Data Science: Train - DAX, columns and measures",Self Review,Slide deck,Ridha,Ridha,90.91,92.86,92.27,Not applicable,0.00,,12/2/2020 16:58:40,12/2/2020 16:58:40,Ridha,Ridha,,,Ridha,
-SPRINT 10,,BI for Analysts - Time series modelling MCQ,Tech Lead Review,MCQ,Jonathan,,100.00,72.22,80.56,Accepted - Minor corrections required,0.00,,12/3/2020 0:14:43,12/3/2020 0:14:43,Jonathan,Jonathan,,,Jonathan,
-SPRINT 10,,BI for Analysts - Utilising Trained Models ,Tech Lead Review,Notebook,Jonathan,,92.86,78.89,83.08,Accepted - No corrections required,0.00,,12/3/2020 1:18:29,12/3/2020 1:18:29,Jonathan,Jonathan,,,Jonathan,
-SPRINT 10,,{EXPLORE 101} - {Explain Skills MCQ},Self Review,MCQ,Laura,Laura,100.00,82.22,87.56,Not applicable,0.00,,12/7/2020 14:53:31,12/7/2020 14:53:31,Laura,Laura,,,Laura,
-SPRINT 10,,DS101 - Explains Skills test,Peer Review,MCQ,Ridha,,100.00,91.11,93.78,Accepted - Minor corrections required,0.00,,12/7/2020 15:12:22,12/7/2020 15:12:22,Ridha,Ridha,,,Ridha,
-SPRINT 10,,BI for Analysts - Advanced PBI Visuals,Self Review,Slide deck,Vincent,Vincent,100.00,82.86,88.00,Accepted - No corrections required,0.00,,12/8/2020 15:01:10,12/8/2020 15:01:10,Vincent,Vincent,,,Vincent,
-SPRINT 10,,{EXPLORE 101} - {List Comprehensions},Self Review,Notebook,Laura,Laura,100.00,87.78,91.44,Not applicable,0.00,,12/9/2020 8:12:22,12/9/2020 8:12:22,Laura,Laura,,,Laura,
-SPRINT 10,,{BI Analysts} - {FeatureEngineering&DataImputationMCQ},Self Review,MCQ,Laura,Laura,100.00,85.56,89.89,Not applicable,0.00,,12/9/2020 13:58:39,12/9/2020 13:58:39,Laura,Laura,,,Laura,
-SPRINT 10,,EXPLORE101 - Lambda Functions,Self Review,Notebook,Ridha,Ridha,100.00,97.78,98.44,Not applicable,0.00,,12/9/2020 17:47:12,12/9/2020 17:47:12,Ridha,Ridha,,,Ridha,
-SPRINT 10,,BI for Analysts - MCQ Data modelling in PBI & Advanced Visuals,Self Review,MCQ,Vincent,Vincent,100.00,70.00,79.00,Accepted - No corrections required,0.00,,12/11/2020 9:37:59,12/11/2020 9:37:59,Vincent,Vincent,,,Vincent,
-SPRINT 10,,Visualisation for Analysts - XGBOOST Coding Challenge,Self Review,Coding Challenge,Jonathan,Jonathan,100.00,74.44,82.11,Not applicable,0.00,,12/11/2020 12:03:19,12/11/2020 12:03:19,Jonathan,Jonathan,,,Jonathan,
-SPRINT 10,,Visualisation for Analysts - SARIMA Coding Challenge,Self Review,Coding Challenge,Jonathan,Jonathan,100.00,72.22,80.56,Not applicable,0.00,,12/11/2020 12:25:39,12/11/2020 12:25:39,Jonathan,Jonathan,,,Jonathan,
-SPRINT 10,,BI for Analasts - Sarima-Xgboost-Coding-Challenges,Peer Review,Coding Challenge,Vincent,,100.00,86.67,90.67,Accepted - Minor corrections required,0.00,,12/14/2020 10:06:05,12/14/2020 10:06:05,Vincent,Vincent,,,Vincent,
-SPRINT 10,,V4DS - Power BI and Visualisation,Self Review,MCQ,Ridha,Ridha,100.00,96.67,97.67,Not applicable,0.00,,12/14/2020 16:18:36,12/14/2020 16:18:36,Ridha,Ridha,,,Ridha,
-SPRINT 10,,EXPLORE101 - intro to functions,Peer Review,Notebook,Ridha,,93.33,92.22,92.56,Accepted - No corrections required,0.00,,12/14/2020 16:35:51,12/14/2020 16:35:51,Ridha,Ridha,,,Ridha,
-SPRINT 10,,BI for Analysts - Python Visuals,Self Review,Slide deck,Vincent,Vincent,100.00,82.86,88.00,Not applicable,0.00,,1/5/2021 10:25:32,1/5/2021 10:25:32,Vincent,Vincent,,,Vincent,
-SPRINT 10,,Visualisation for Analysts -  Data Modelling in PBI ,Tech Lead Review,Slide deck,Jonathan,,100.00,84.29,89.00,Accepted - No corrections required,0.00,,1/6/2021 16:03:19,1/6/2021 16:03:19,Jonathan,Jonathan,,,Jonathan,
-SPRINT 10,,Visualisation for Analysts - Using Python Visuals in Power BI ,Peer Review,Slide deck,Jonathan,,90.00,80.00,83.00,Accepted - Minor corrections required,0.00,,1/8/2021 8:32:13,1/8/2021 8:32:13,Jonathan,Jonathan,,,Jonathan,
-SPRINT 10,,SQL4DS - SQL Predict - Review Predict Instructions,Self Review,Slide deck,Nthikeng,Nthikeng,100.00,96.67,97.67,Accepted - No corrections required,0.00,,1/8/2021 12:28:21,1/8/2021 12:28:21,Nthikeng,Nthikeng,,,Nthikeng,
-SPRINT 10,,Python for Data Science: Student Test - Basic Lists Exercise 1,Peer Review,Notebook,Nthikeng,,85.71,100.00,95.71,Accepted - Minor corrections required,0.00,,1/8/2021 13:58:24,1/8/2021 13:58:24,Nthikeng,Nthikeng,,,Nthikeng,
-SPRINT 10,,Python for Data Science: Student Test - Basic Sorting and List Comprehension Exercise 3,Peer Review,Notebook,Nthikeng,,83.33,99.09,94.36,Accepted - Minor corrections required,0.00,,1/8/2021 14:49:27,1/8/2021 14:49:27,Nthikeng,Nthikeng,,,Nthikeng,
-SPRINT 11,,Cloud Computing - Cloud Concepts,Self Review,Slide deck,Vincent,Vincent,100.00,78.57,85.00,Not applicable,0.00,,1/13/2021 13:48:00,1/13/2021 13:48:00,Vincent,Vincent,,,Vincent,
-SPRINT 11,,Cloud Computing - Navigating your AWS account [Slides],Self Review,Slide deck,Fortune,Fortune,81.82,91.43,88.55,Accepted - No corrections required,0.00,,1/13/2021 17:12:37,1/13/2021 17:12:37,Fortune,Fortune,,,Fortune,
-SPRINT 11,,SQL4DS-String Manipulation,Self Review,Notebook,Nthikeng,Nthikeng,91.67,100.00,97.50,Accepted - No corrections required,0.00,,1/14/2021 7:33:00,1/14/2021 7:33:00,Nthikeng,Nthikeng,,,Nthikeng,
-SPRINT 11,,Visualisation for Analysts - Power BI Python Visuals and DataFrames MCQ,Tech Lead Review,MCQ,Jonathan,,100.00,81.11,86.78,Accepted - No corrections required,0.00,,1/14/2021 10:20:30,1/14/2021 10:20:30,Jonathan,Jonathan,,,Jonathan,
-SPRINT 11,,Cloud Computing - Navigating your AWS account,Peer Review,Slide deck,Vincent,,81.82,75.71,77.55,Rework required,0.00,,1/14/2021 12:55:20,1/14/2021 12:55:20,Vincent,Vincent,,,Vincent,
-SPRINT 11,,SQL for Data Science - String Manipulation,Peer Review,Notebook,Jonathan,,76.92,92.22,87.63,Accepted - Minor corrections required,0.00,,1/14/2021 14:28:34,1/14/2021 14:28:34,Jonathan,Jonathan,,,Jonathan,
-SPRINT 11,,Cloud Computing - Cloud Concepts [Slide],Peer Review,Slide deck,Fortune,,81.82,82.86,82.55,Accepted - Minor corrections required,0.00,,1/14/2021 15:24:38,1/14/2021 15:24:38,Fortune,Fortune,,,Fortune,
-SPRINT 11,,Cloud Computing - AWS Global Infrastructure,Self Review,Slide deck,Vincent,Vincent,100.00,70.00,79.00,Not applicable,0.00,,1/18/2021 10:41:08,1/18/2021 10:41:08,Vincent,Vincent,,,Vincent,
-SPRINT 11,,Cloud Computing - Cloud Concepts [MCQ],Peer Review,MCQ,Fortune,,100.00,78.89,85.22,Accepted - Minor corrections required,0.00,,1/18/2021 12:28:08,1/18/2021 12:28:08,Fortune,Fortune,,,Fortune,
-SPRINT 11,,SQL4DS-Data Transformation,Self Review,Notebook,Nthikeng,Nthikeng,84.62,91.11,89.16,Accepted - No corrections required,0.00,,1/19/2021 3:05:58,1/19/2021 3:05:58,Nthikeng,Nthikeng,Nthikeng,Nthikeng,Nthikeng,Nthikeng
-SPRINT 11,,Cloud Computing - AWS Economics and Billling ,Self Review,Slide deck,Vincent,Vincent,90.00,74.29,79.00,Not applicable,0.00,,1/20/2021 10:58:13,1/20/2021 10:58:13,Vincent,Vincent,Vincent,Vincent,Vincent,Vincent
-SPRINT 11,,Cloud Computing - AWS Global Infrastructure,Peer Review,Slide deck,Fortune,Vincent,81.82,78.57,79.55,Rework required,0.00,,1/21/2021 10:06:59,1/21/2021 10:06:59,Fortune,Fortune,Vincent,Vincent,Fortune,Vincent
-SPRINT 11,,SQL for Data Science - Transforming Data,Peer Review,Notebook,Jonathan,Nthikeng,78.57,81.25,80.45,Accepted - No corrections required,0.00,,1/21/2021 10:08:38,1/21/2021 10:08:38,Jonathan,Jonathan,Nthikeng,Nthikeng,Jonathan,Nthikeng
-SPRINT 11,,Cloud Computing - Navigating your AWS Account,Tech Lead Review,Slide deck,Jonathan,Fortune,90.91,64.29,72.27,Rework required,0.00,,1/21/2021 10:24:19,1/21/2021 10:24:19,Jonathan,Jonathan,Fortune,Fortune,Jonathan,Fortune
-SPRINT 11,,Cloud Computing - AWS Global Infrastructure,Tech Lead Review,Slide deck,Jonathan,Vincent,100.00,85.71,90.00,Accepted - Minor corrections required,0.00,,1/21/2021 11:20:56,1/21/2021 11:20:56,Jonathan,Jonathan,Vincent,Vincent,Jonathan,Vincent
-SPRINT 11,,Cloud Computing - AWS Global Infrastructure [MCQ],Self Review,MCQ,Fortune,Fortune,100.00,83.33,88.33,Accepted - No corrections required,0.00,,1/21/2021 11:48:38,1/21/2021 11:48:38,Fortune,Fortune,Fortune,Fortune,Fortune,Fortune
-SPRINT 11,,Cloud Computing - Cloud Concepts [MCQ],Tech Lead Review,MCQ,Jonathan,Vincent,100.00,77.78,84.44,Accepted - Minor corrections required,0.00,,1/21/2021 14:13:50,1/21/2021 14:13:50,Jonathan,Jonathan,Vincent,Vincent,Jonathan,Vincent
-SPRINT 12,,SQL4DS-Pracitcal Normalisation and Data Anomalies,Self Review,Notebook,Nthikeng,Nthikeng,80.00,92.22,88.56,Accepted - No corrections required,0.00,,1/25/2021 8:41:54,1/25/2021 8:41:54,Nthikeng,Nthikeng,Nthikeng,Nthikeng,Nthikeng,Nthikeng
-SPRINT 12,,Visualisation - Visual Storytelling,Self Review,Slide deck,Vincent,Vincent,100.00,77.14,84.00,Accepted - No corrections required,0.00,,1/26/2021 11:41:58,1/26/2021 11:41:58,Vincent,Vincent,Vincent,Vincent,Vincent,Vincent
-SPRINT 12,,Cloud Computing - AWS Economics and Billing,Peer Review,Slide deck,Fortune,Vincent,90.91,91.43,91.27,Accepted - No corrections required,0.00,,1/26/2021 12:14:04,1/26/2021 12:14:04,Fortune,Fortune,Vincent,Vincent,Fortune,Vincent
-SPRINT 12,,Cloud Computing - AWS Storage Resources,Self Review,MCQ,Fortune,Fortune,100.00,88.89,92.22,Accepted - No corrections required,0.00,,1/26/2021 18:08:04,1/26/2021 18:08:04,Fortune,Fortune,Fortune,Fortune,Fortune,Fortune
-SPRINT 12,,Cloud Computing-AWS Storage Resources MCQ,Peer Review,MCQ,Nthikeng,Fortune,85.71,91.82,89.99,Accepted - Minor corrections required,0.00,,1/28/2021 9:26:48,1/28/2021 9:26:48,Nthikeng,Nthikeng,Fortune,Fortune,Nthikeng,Fortune
-SPRINT 12,,Visualisation- Visual Story Telling,Peer Review,Slide deck,Nthikeng,Vincent,100.00,100.00,100.00,Accepted - Minor corrections required,0.00,,1/28/2021 9:30:13,1/28/2021 9:30:13,Nthikeng,Nthikeng,Vincent,Vincent,Nthikeng,Vincent
-SPRINT 12,,Cloud Computing- AWS Storage resources,Self Review,Slide deck,Nthikeng,Nthikeng,90.91,82.86,85.27,Accepted - Minor corrections required,0.00,,1/28/2021 22:05:34,1/28/2021 22:05:34,Nthikeng,Nthikeng,Nthikeng,Nthikeng,Nthikeng,Nthikeng
-SPRINT 12,,Cloud Computing - AWS Economics and Billing ,Self Review,MCQ,Vincent,Vincent,100.00,75.56,82.89,Accepted - No corrections required,0.00,,2/1/2021 10:11:38,2/1/2021 10:11:38,Vincent,Vincent,Vincent,Vincent,Vincent,Vincent
-SPRINT 12,, Cloud Computing - AWS Compute Services,Self Review,Slide deck,Vincent,Vincent,100.00,78.57,85.00,Accepted - No corrections required,0.00,,2/1/2021 10:17:24,2/1/2021 10:17:24,Vincent,Vincent,Vincent,Vincent,Vincent,Vincent
-SPRINT 12,,Cloud Computing - AWS Storage Resources ,Peer Review,Slide deck,Fortune,Nthikeng,72.73,77.14,75.82,Rework required,0.00,,2/1/2021 10:26:39,2/1/2021 10:26:39,Fortune,Fortune,Nthikeng,Nthikeng,Fortune,Nthikeng
-SPRINT 12,,Visualisation - Visual Story Telling,Tech Lead Review,Slide deck,Jaco,Vincent,83.33,61.43,68.00,Rework required,0.00,,2/4/2021 12:00:01,2/4/2021 12:00:01,Jaco,Jaco,Vincent,Vincent,Jaco,Vincent
-SPRINT 12,,Cloud Computing - Introduction to the Cloud - Part I,Tech Lead Review,Slide deck,Jaco,Vincent,100.00,85.71,90.00,Accepted - Minor corrections required,0.00,,2/4/2021 12:03:49,2/4/2021 12:03:49,Jaco,Jaco,Vincent,Vincent,Jaco,Vincent
-SPRINT 12,,Cloud Computing - AWS Compute Services,Peer Review,Slide deck,Jonathan,Vincent,100.00,65.71,76.00,Rework required,0.00,,2/4/2021 14:45:29,2/4/2021 14:45:29,Jonathan,Jonathan,Vincent,Vincent,Jonathan,Vincent
-SPRINT 12,,Cloud Computing - AWS Compute Services,Tech Lead Review,Slide deck,Jonathan,Vincent,100.00,77.14,84.00,Accepted - No corrections required,0.00,,2/4/2021 14:48:45,2/4/2021 14:48:45,Jonathan,Jonathan,Vincent,Vincent,Jonathan,Vincent
-SPRINT 12,,SQL for DS - Practical Normalisation and Data Anomalies,Peer Review,Notebook,Jonathan,Nthikeng,93.33,82.22,85.56,Accepted - Minor corrections required,0.00,,2/4/2021 14:55:24,2/4/2021 14:55:24,Jonathan,Jonathan,Nthikeng,Nthikeng,Jonathan,Nthikeng
-SPRINT 12,,SQL for DS - Practical Normalisation and Data Anomalies,Tech Lead Review,Notebook,Jonathan,Nthikeng,100.00,91.11,93.78,Accepted - No corrections required,0.00,,2/4/2021 14:58:56,2/4/2021 14:58:56,Jonathan,Jonathan,Nthikeng,Nthikeng,Jonathan,Nthikeng
-SPRINT 12,,SQL for Data Science - Data Transformations,Peer Review,Notebook,Jonathan,Nthikeng,86.67,77.78,80.44,Accepted - Minor corrections required,0.00,,2/4/2021 15:03:10,2/4/2021 15:03:10,Jonathan,Jonathan,Nthikeng,Nthikeng,Jonathan,Nthikeng
-SPRINT 12,,SQL for Data Science - Data Transformations,Tech Lead Review,Notebook,Jonathan,Nthikeng,100.00,85.56,89.89,Accepted - No corrections required,0.00,,2/4/2021 15:05:44,2/4/2021 15:05:44,Jonathan,Jonathan,Nthikeng,Nthikeng,Jonathan,Nthikeng
-SPRINT 12,,Cloud Computing - AWS Economics and Cloud Billing,Tech Lead Review,MCQ,Jonathan,Vincent,100.00,81.11,86.78,Accepted - No corrections required,0.00,,2/4/2021 15:13:14,2/4/2021 15:13:14,Jonathan,Jonathan,Vincent,Vincent,Jonathan,Vincent
-EC2_00,EC2-109,Cloud Computing - Transferring Files to Your EC2 Instance  [Slides],Self Review,Slide deck,Vincent,Vincent,100.00,75.71,83.00,Not applicable,1.00,,2/5/2021 11:33:55,2/8/2021 9:48:28,Vincent Le Roux,Vincent,Jaco Jansen van Rensburg,Jaco,Vincent,Vincent
-EC2_00,EC2-54,AWS Global Infrastructure,Self Review,Video,Karin,Karin,87.50,96.67,93.92,Not applicable,1.00,9,2/5/2021 11:33:35,2/8/2021 23:16:17,Karin Louw,Karin,Jaco Jansen van Rensburg,Jaco,Karin,Karin
-EC2_00,EC2-54,AWS Global Infrastructure,Tech Lead Review,Video,Kieran,Karin,88.89,88.89,88.89,Accepted - Minor corrections required,1.00,5,2/5/2021 11:33:35,2/8/2021 23:16:17,Karin Louw,Karin,Jaco Jansen van Rensburg,Jaco,Kieran,Karin
-EC2_00,EC2-121,Course Overview,Self Review,Video,Kieran,Kieran,100.00,91.11,93.78,Accepted - No corrections required,1.00,9,2/5/2021 11:33:59,2/8/2021 21:00:28,Kieran Donnelly,Kieran,Jaco Jansen van Rensburg,Jaco,Kieran,Kieran
-EC2_00,EC2-76,Cloud Computing - AWS Cloud Architecture  [Slides],Self Review,Slide deck,Vincent,Vincent,100.00,78.57,85.00,Accepted - No corrections required,2.00,8,2/5/2021 11:33:43,2/9/2021 4:02:46,Vincent Le Roux,Vincent,Jaco Jansen van Rensburg,Jaco,Vincent,Vincent
-EC2_00,EC2-190,Cloud Computing - Transferring Files to Your EC2 Instance  [Slides],Tech Lead Review,Slide deck,Jaco,Vincent,100.00,84.29,89.00,Accepted - Minor corrections required,0.00,8,2/9/2021 9:23:14,2/9/2021 13:52:20,Jaco Jansen van Rensburg,Jaco,Automation for Jira,Automation for Jira,Jaco,Vincent
-EC2_00,EC2-188,Cloud Computing - Setting up an AWS RDS Instance [Slides],Tech Lead Review,Slide deck,Jaco,Nthikeng,72.73,77.14,75.82,Rework required,0.00,6,2/9/2021 9:20:57,2/9/2021 15:57:30,Jaco Jansen van Rensburg,Jaco,Automation for Jira,Automation for Jira,Jaco,Nthikeng
-EC2_00,EC2-186,Visual Storytelling,Tech Lead Review,Video,Jonathan,Kieran,100.00,90.00,93.00,Accepted - No corrections required,2.00,7,2/8/2021 21:01:10,2/10/2021 9:33:28,Jonathan Gerrand,Jonathan,Automation for Jira,Automation for Jira,Jonathan,Kieran
-EC2_00,EC2-100,Cloud Computing - Mounting an S3 Bucket to EC2 [Slides],Self Review,Slide deck,Nthikeng,Nthikeng,90.00,91.43,91.00,Accepted - Minor corrections required,2.00,5,2/5/2021 11:33:52,2/9/2021 17:09:02,Nthikeng Letsoalo,Nthikeng,Jaco Jansen van Rensburg,Jaco,Nthikeng,Nthikeng
-EC2_00,EC2-124,Data Transformations,Self Review,Script and Visual Cues,Karin,Karin,100.00,88.57,92.00,Not applicable,4.00,8,2/5/2021 11:34:00,2/11/2021 15:41:43,Karin Louw,Karin,Jaco Jansen van Rensburg,Jaco,,
-EC2_00,EC2-192,Cloud Computing - AWS Databases [Slides],Peer Review,Slide deck,Fortune,Nthikeng,90.91,90.00,90.27,Accepted - No corrections required,2.00,8,2/9/2021 10:26:52,2/11/2021 11:35:46,Fortune Mwenda,Fortune,Nthikeng,Nthikeng,,
-EC2_00,EC2-141,Practical Normalisation and Data Anomalies,Self Review,Script and Visual Cues,Karin,Karin,100.00,88.57,92.00,Not applicable,4.00,9,2/5/2021 11:34:06,2/11/2021 15:55:25,Karin Louw,Karin,Jaco Jansen van Rensburg,Jaco,,
-EC2_00,EC2-191,Data Engineering Reviews,Self Review,Slide deck,Vincent,Vincent,100.00,75.71,83.00,Accepted - No corrections required,0.00,9,2/9/2021 9:53:48,2/9/2021 11:18:30,Vincent Le Roux,Vincent,Jaco Jansen van Rensburg,Jaco,Vincent,Vincent
-EC2_00,EC2-250,String Manipulation,Tech Lead Review,Script and Visual Cues,Jaco,Kieran,100.00,92.86,95.00,Accepted - Minor corrections required,0.00,8,2/11/2021 12:25:38,2/11/2021 12:25:41,Jaco Jansen van Rensburg,Jaco,Kieran Donnelly,Kieran,,
-EC2_00,EC2-249,Cloud Computing - Mounting an S3 Bucket to EC2 [Slides],Tech Lead Review,Slide deck,Jaco,Nthikeng,90.00,85.71,87.00,Accepted - Minor corrections required,0.00,8,2/11/2021 7:25:59,2/11/2021 14:57:58,Jaco Jansen van Rensburg,Jaco,Nthikeng Letsoalo,Nthikeng,,
-EC2_00,EC2-88,Cloud Computing - AWS Lambdas  [Slides],Self Review,Slide deck,Maddy,Maddy,90.91,80.00,83.27,Not applicable,3.00,6,2/5/2021 11:33:47,2/10/2021 14:35:26,Maddy Muir,Maddy,Jaco Jansen van Rensburg,Jaco,Maddy,Maddy
+OBJECTIVE_SCORE,SUBJECTIVE_SCORE,REVIEW_SCORE,REVIEW_TYPE
+100,69,78,Self Review
+100,80,86,Self Review
+83,68,72,Self Review
+88,71,76,Self Review
+70,77,75,Self Review
+60,79,73,Self Review
+100,69,78,Tech Lead Review
+91,74,79,Tech Lead Review
+100,76,83,Tech Lead Review
+75,70,72,Tech Lead Review
+100,80,86,Tech Lead Review
+100,73,81,Tech Lead Review
+89,81,84,Tech Lead Review
+91,77,81,Tech Lead Review
+100,100,100,Tech Lead Review
+75,81,80,Peer Review
+64,79,74,Self Review
+63,76,72,Peer Review
+44,77,67,Self Review
+82,86,85,Self Review
+82,79,80,Peer Review
+91,90,90,Self Review
+25,63,52,Peer Review
+90,81,84,Self Review
+64,87,80,Peer Review
+82,84,84,Self Review
+82,90,88,Peer Review
+100,90,93,Peer Review
+82,84,84,Self Review
+75,86,83,Peer Review
+93,59,69,Tech Lead Review
+50,90,78,Peer Review
+92,76,81,Tech Lead Review
+100,89,92,Tech Lead Review
+93,76,81,Self Review
+100,99,99,Self Review
+92,80,84,Tech Lead Review
+100,82,88,Tech Lead Review
+91,81,84,Self Review
+91,90,90,Peer Review
+50,90,78,Peer Review
+91,64,72,Peer Review
+88,87,87,Peer Review
+100,92,95,Peer Review
+100,90,93,Peer Review
+100,76,83,Self Review
+100,89,92,Self Review
+92,94,94,Peer Review
+100,94,96,Peer Review
+63,87,80,Self Review
+100,90,93,Tech Lead Review
+100,84,89,Self Review
+100,83,88,Tech Lead Review
+100,81,87,Self Review
+100,82,88,Self Review
+87,87,87,Self Review
+100,81,87,Tech Lead Review
+100,96,97,Self Review
+100,97,98,Peer Review
+91,80,83,Peer Review
+82,100,95,Self Review
+100,81,87,Self Review
+44,83,72,Self Review
+100,97,98,Peer Review
+91,83,85,Peer Review
+100,81,87,Self Review
+91,84,86,Self Review
+86,81,82,Self Review
+100,90,93,Peer Review
+91,84,86,Tech Lead Review
+100,48,63,Peer Review
+100,90,93,Peer Review
+75,80,79,Peer Review
+100,81,87,Self Review
+82,81,82,Peer Review
+91,77,81,Peer Review
+100,73,81,Tech Lead Review
+38,87,72,Self Review
+100,94,96,Self Review
+100,94,96,Peer Review
+100,80,86,Tech Lead Review
+100,80,86,Tech Lead Review
+100,74,82,Tech Lead Review
+100,90,93,Peer Review
+100,99,99,Self Review
+91,93,92,Self Review
+100,72,81,Tech Lead Review
+93,79,83,Tech Lead Review
+100,82,88,Self Review
+100,91,94,Peer Review
+100,83,88,Self Review
+100,88,91,Self Review
+100,86,90,Self Review
+100,98,98,Self Review
+100,70,79,Self Review
+100,74,82,Self Review
+100,72,81,Self Review
+100,87,91,Peer Review
+100,97,98,Self Review
+93,92,93,Peer Review
+100,83,88,Self Review
+100,84,89,Tech Lead Review
+90,80,83,Peer Review
+100,97,98,Self Review
+86,100,96,Peer Review
+83,99,94,Peer Review
+100,79,85,Self Review
+82,91,89,Self Review
+92,100,98,Self Review
+100,81,87,Tech Lead Review
+82,76,78,Peer Review
+77,92,88,Peer Review
+82,83,83,Peer Review
+100,70,79,Self Review
+100,79,85,Peer Review
+85,91,89,Self Review
+90,74,79,Self Review
+82,79,80,Peer Review
+79,81,80,Peer Review
+91,64,72,Tech Lead Review
+100,86,90,Tech Lead Review
+100,83,88,Self Review
+100,78,84,Tech Lead Review
+80,92,89,Self Review
+100,77,84,Self Review
+91,91,91,Peer Review
+100,89,92,Self Review
+86,92,90,Peer Review
+100,100,100,Peer Review
+91,83,85,Self Review
+100,76,83,Self Review
+100,79,85,Self Review
+73,77,76,Peer Review
+83,61,68,Tech Lead Review
+100,86,90,Tech Lead Review
+100,66,76,Peer Review
+100,77,84,Tech Lead Review
+93,82,86,Peer Review
+100,91,94,Tech Lead Review
+87,78,80,Peer Review
+100,86,90,Tech Lead Review
+100,81,87,Tech Lead Review
+100,76,83,Self Review
+88,97,94,Self Review
+89,89,89,Tech Lead Review
+100,91,94,Self Review
+100,79,85,Self Review
+100,84,89,Tech Lead Review
+73,77,76,Tech Lead Review
+100,90,93,Tech Lead Review
+90,91,91,Self Review
+100,89,92,Self Review
+91,90,90,Peer Review
+100,89,92,Self Review
+100,76,83,Self Review
+100,93,95,Tech Lead Review
+90,86,87,Tech Lead Review
+91,80,83,Self Review
